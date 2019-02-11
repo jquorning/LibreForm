@@ -15,9 +15,12 @@ make setup
 ````sh
 make build
 make build-test
-´´´
+```
+
 or
+
 ```sh
 gprbuild statsock
 gprbuild statsock_test
-´´´
+```
+
