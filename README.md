@@ -21,5 +21,3 @@ or
 gprbuild statsock
 gprbuild statsock_test
 ```
-
-
