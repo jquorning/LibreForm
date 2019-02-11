@@ -12,7 +12,7 @@ make setup
 ```
 
 ## Building
-````sh
+```sh
 make build
 make build-test
 ```
